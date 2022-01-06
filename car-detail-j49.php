@@ -37,7 +37,7 @@ $resultatRequete = $bdd->query("SELECT * FROM voiture");
 
     <body>
 
-        <a href="users.php">Allez vers le formulaire "utilisateur"</a>
+        <a href="users-j48.php">Allez vers le formulaire "utilisateur"</a>
         
         <h1>Product details</h1>
         

@@ -104,7 +104,7 @@
 
         <h1>Ajouter un nouvel utilisateur</h1>
 
-        <a href="index.php">Aller vers le formulaire "voiture"</a>
+        <a href="index-j48.php">Aller vers le formulaire "voiture"</a>
 
         <!-- 5.1. Affichage du message après le submit -->
         <?= $message ?>

@@ -31,3 +31,9 @@ h3 {
     text-align: center;
     /* margin: 50px 0; */
 }
+
+#message {
+    font-size: 17px;
+    color: #182C61;
+    font-weight: bold;
+}

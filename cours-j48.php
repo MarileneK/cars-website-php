@@ -149,7 +149,7 @@ if ($result) {
     Ville
     Mot de passe
     -->
-        <a href="users.php">Allez vers le formulaire "utilisateur"</a>    
+        <a href="users-j48.php">Allez vers le formulaire "utilisateur"</a>    
 
         <form action="#" method="POST">
             <label for="brand">Marque</label>

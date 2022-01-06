@@ -61,7 +61,7 @@ $allUsers = $queryUsers->fetchAll(PDO::FETCH_ASSOC);
 
         <h1>Tableau de tous les utilisateurs</h1>
 
-        <a href="users.php">Allez vers le formulaire "utilisateur"</a>    
+        <a href="users-j48.php">Allez vers le formulaire "utilisateur"</a>    
 
         <table>
             <thead>

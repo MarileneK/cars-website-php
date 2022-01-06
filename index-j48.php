@@ -76,12 +76,9 @@ if (isset($_POST["brand"]) && !empty($_POST["brand"])
 
     <body>
 
-        <a href="users.php">Allez vers le formulaire "utilisateur"</a>
+        <a href="users-j48.php">Allez vers le formulaire "utilisateur"</a>
         
         <h1>Ajouter une nouvelle voiture</h1>
-
-        <!-- 4.1. J'ajoute ma variable au-dessus du formulaire -->
-        <?= $message ?>
         
         <form action="#" method="POST">
         <div id="container">
@@ -113,7 +110,12 @@ if (isset($_POST["brand"]) && !empty($_POST["brand"])
             <input type="submit" value="Ajouter">
         </div>
         </form>
-        
+
+        <div id="message">
+            <!-- 4.1. J'ajoute ma variable au-dessus du formulaire -->
+            <?= $message ?>
+        </div>
+
     </body>
 
 </html>
